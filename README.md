@@ -11,7 +11,7 @@ $ npm install
 $ touch .env
 $ echo "firebaseApiKey='${FIREBASE_API_KEY}'" > .env
 $ echo "firebaseAuthDomain='${FIREBASE_AUTH_DOMAIN}'" > .env
-$ echo "firebaseDatabaseURL='${FIREBASE_DATABASE_URL'" > .env
+$ echo "firebaseDatabaseURL='${FIREBASE_DATABASE_URL}'" > .env
 $ echo "firebaseStorageBucket='${FIREBASE_STORAGE_BUCKET}'" > .env
 $ echo "firebaseMessagingSenderId='${FIREBASE_MESSAGING_SENDER_ID}'" > .env
 $ react-native link react-native-config
