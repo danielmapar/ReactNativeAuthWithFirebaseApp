@@ -14,7 +14,7 @@ $ echo "firebaseAuthDomain='${FIREBASE_AUTH_DOMAIN}'" > .env
 $ echo "firebaseDatabaseURL='${FIREBASE_DATABASE_URL}'" > .env
 $ echo "firebaseStorageBucket='${FIREBASE_STORAGE_BUCKET}'" > .env
 $ echo "firebaseMessagingSenderId='${FIREBASE_MESSAGING_SENDER_ID}'" > .env
-$ react-native link react-native-config
+$ Run the Setup for environment variables: https://github.com/luggit/react-native-config
 $ react-native run-ios OR react-native run-android
 ```
 
