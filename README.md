@@ -18,7 +18,7 @@ $ react-native link react-native-config
 $ react-native run-ios OR react-native run-android
 ```
 
-  - Optional - Install Linter and ESLint inside Atom to modify this project following
+- Optional - Install Linter and ESLint inside Atom to modify this project following
   the standards inside ```.eslintrc```:
-    - Install linter package
-    - Install linter-eslint package
+  - Install linter package
+  - Install linter-eslint package
